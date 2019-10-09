@@ -2,7 +2,7 @@ Link of the final project - https://github.com/aksht94/UdacityOpenSource/tree/ma
 
 Please note that the webapp mentioned in the final project is currently suspended.
 
-We are looking at alternate deplyment options for the same.
+We are looking at alternate deployment options for the same.
 
 Logs - 
 
