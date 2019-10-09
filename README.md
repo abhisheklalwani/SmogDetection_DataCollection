@@ -5,6 +5,7 @@ Please note that the webapp mentioned in the final project is currently suspende
 We are looking at alternate deplyment options for the same.
 
 Logs - 
+
 26/7/2019 Data Added (Smog - 10, Clear - 10)<br></br>
 27/7/2019 Data Added (Smog - 10, Clear - 10)<br></br>
 28/7/2019 Data Added (Smog - 10, Clear - 10)<br></br>
